@@ -1,5 +1,5 @@
 # LYTEX Discord Bot
-programmed by Immanuel in Python (py-cord), SQlite
+##programmed by Immanuel in Python (py-cord), SQlite
 
 ### Main Config
 ```py
